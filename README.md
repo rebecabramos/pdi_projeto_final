@@ -1,4 +1,4 @@
-## Projeto Final da disciplina de Processamento Digital de Imagens 🖼
+## Implementação do trabalho 2 da disciplina de Processamento Digital de Imagens 🖼
 
 ### 📚 Organização do repositório
 
