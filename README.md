@@ -19,4 +19,22 @@ Em que g controla o ganho (g = 0.5 é 50% de ganho máximo), fc é a frequência
 1. Faça um clone do repositório
 2. Use o Jupyter ou Colab para abrir o projeto
 3. No Colab clique em Ambiente de execução -> Executar Tudo, ou use o comando ctrl+F9.
-4. No Jupyter basta clicar em *run*
+4. Antes de rodar no Jupyter certifique-se que você tem o opencv instalado, pois ele é usado em algumas partes do projeto. Dessa forma, basta seguir os seguintes passos:
+~~~cmd
+conda update anaconda-navigator  
+conda update navigator-updater
+~~~
+Para windows, se você tiver o anaconda instalado, você pode simplesmente fazer
+
+~~~cmd
+pip install opencv-python
+~~~
+se você estiver no Linux, você pode fazer:
+
+~~~cmd
+pip install opencv-python
+~~~
+
+🔗 <https://stackoverflow.com/questions/19876079/cannot-find-module-cv2-when-using-opencv>
+
+6. No Jupyter basta clicar em *run*
